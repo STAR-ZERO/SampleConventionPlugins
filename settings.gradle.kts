@@ -13,8 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-includeBuild("build-logic")
-
 rootProject.name = "ConventionPlugins"
 include(":app")
 include(":lib")
